@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+ ⚡ Fun fact: there is no fun fact.
 <!--
 **hamidzoso/Hamidzoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
